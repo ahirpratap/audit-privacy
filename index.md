@@ -73,5 +73,4 @@ We may update this Privacy Policy occasionally. Any changes will be reflected in
 For any privacy-related questions or concerns, please contact:
 
 **AuditEase Privacy Team**  
-📧 support@auditease.app  
-📍 [Your Organization Name], [Your Address]
+📧 support@auditease.app
